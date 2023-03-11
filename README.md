@@ -4,7 +4,6 @@
 ### Site preview [Shoe Ecommerce Website](https://walwise-walkwise-000023.netlify.app/).
 This repository contains a shoe ecommerce website built with ReactJS as the frontend and Strapi as the backend, with the integration of Stripe Payment Gateway for online payments. The website also uses React Router DOM for routing and code splitting for optimized performance.
 
-![Website preview](https://lexica-serve-encoded-images2.sharif.workers.dev/md2/13491cca-fc3f-4f9f-8354-d23ee7d8220c)
 
 `Prerequisites`
 * Node.js
