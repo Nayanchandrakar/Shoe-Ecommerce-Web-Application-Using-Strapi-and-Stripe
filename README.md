@@ -1,7 +1,7 @@
 
 
 # ReactJS and Strapi Shoe Ecommerce Site with Stripe Payment Gateway
-### Site preview [Shoe Ecommerce Website](https://walwise-walkwise-000023.netlify.app/).
+### Site preview [Shoe Ecommerce Website](https://walkwise-walkwise-000024.netlify.app/).
 This repository contains a shoe ecommerce website built with ReactJS as the frontend and Strapi as the backend, with the integration of Stripe Payment Gateway for online payments. The website also uses React Router DOM for routing and code splitting for optimized performance.
 
 
